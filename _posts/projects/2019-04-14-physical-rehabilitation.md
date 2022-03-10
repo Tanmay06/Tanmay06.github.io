@@ -6,4 +6,3 @@ background: '/img/posts/projects/01.jpg'
 categories: 'Projects'
 ---
 
-<p></p>

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Sentence semantic similarity using dependency parsing."
+title: "Abstractive summarization"
 subtitle: "A novel metric for determinig the semantic similarity between sentences."
 background: '/img/posts/projects/01.jpg'
 categories: 'Projects'
 ---
+
