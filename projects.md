@@ -15,7 +15,7 @@ background: '/img/bg-post.jpg'
     {% endif %}
     <!-- <p><b>Role:</b>{{ post.role }}</p>
     <p><b>Why: </b>{{ post.why }}</p>
-    <p><b>What: </b>{{ post.what }}</p>
+    <p><b>What: </b>{{ post.what }} </p>
     <p><b>Read More:</b>{{ post.link }}</p> -->
     {{ post.content }}
   <!-- </a> -->
