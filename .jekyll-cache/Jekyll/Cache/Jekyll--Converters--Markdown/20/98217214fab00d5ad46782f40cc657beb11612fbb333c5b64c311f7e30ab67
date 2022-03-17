@@ -1,0 +1,227 @@
+I"F
+<article class="post-preview">
+  <!-- <a href="/projects/2021/07/20/dds.html"> -->
+    <h2 class="post-title">DDS: Document Decoding Service</h2>
+    
+    <p class="post-subtitle">An structured information extraction system.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    <p>An end-to-end structured information extraction system from receipt and invoice images. As part of AI research and development team, I was responsible for continuous developement of the solution and timely integration with the production. I worked on GraphNN with textual, image, geometrical features of the words in the document to determine the tabular structure in the document. Trained and refined the model to achieve production level results. Improved the workflow by optimizing the pre/post-processing components.</p>
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  
+  </p>
+  <p class="post-meta">July 20, 2021</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2021/06/10/match.html"> -->
+    <h2 class="post-title">Match</h2>
+    
+    <p class="post-subtitle">An structured information extraction system.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  
+  </p>
+  <p class="post-meta">June 10, 2021</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2021/05/20/relie.html"> -->
+    <h2 class="post-title">ReLIE: Representation Learning for Information Extraction</h2>
+    
+    <p class="post-subtitle">An structured information extraction system.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  <a href="https://research.google/pubs/pub49122/">Read more</a>
+  
+  
+  <div class="post-link">
+   <a href="https://github.com/Praneet9/Representation-Learning-for-Information-Extraction">Source code</a>
+  </div>
+  
+  </p>
+  <p class="post-meta">May 20, 2021</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2020/11/15/pufferfish.html"> -->
+    <h2 class="post-title">Pufferfish</h2>
+    
+    <p class="post-subtitle">Open-source fully featured mechanical ventilator.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    <p>Open source fully featured mechanical ICU ventillator designed with the idea of low cost and rapid production. Worked on building asynchronous python server for highly efficient and isolated communication between the UI and micro-controller.</p>
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  <a href="https://www.pez-globo.org">Read more</a>
+  
+  
+  <div class="post-link">
+   <a href="https://github.com/pez-globo/pufferfish-software">Source code</a>
+  </div>
+  
+  </p>
+  <p class="post-meta">November 15, 2020</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2020/09/10/hrms-video-analytics.html"> -->
+    <h2 class="post-title">HRMS</h2>
+    
+    <p class="post-subtitle">A novel metric for determinig the semantic similarity between sentences.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    <blockquote>
+  <p>Know more about the project <a href="https://blackstraw.ai/covid-monitoring/">here</a>.</p>
+</blockquote>
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  
+  </p>
+  <p class="post-meta">September 10, 2020</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2020/03/25/speech-translation.html"> -->
+    <h2 class="post-title">Speech Translation</h2>
+    
+    <p class="post-subtitle">A novel metric for determinig the semantic similarity between sentences.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  
+  </p>
+  <p class="post-meta">March 25, 2020</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2019/11/12/abstractive-summarization.html"> -->
+    <h2 class="post-title">Abstractive summarization</h2>
+    
+    <p class="post-subtitle">A novel metric for determinig the semantic similarity between sentences.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  
+  </p>
+  <p class="post-meta">November 12, 2019</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2019/08/10/semantic-similarity.html"> -->
+    <h2 class="post-title">Sentence semantic similarity using dependency parsing.</h2>
+    
+    <p class="post-subtitle">A novel approach to measure semantic closeness between sentences.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  <a href="https://ieeexplore.ieee.org/abstract/document/8944671">Read more</a>
+  
+  
+  <div class="post-link">
+   <a href="https://github.com/Tanmay06/dependency-tree-based-text-similarity">Source code</a>
+  </div>
+  
+  </p>
+  <p class="post-meta">August 10, 2019</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2019/04/14/rehabo.html"> -->
+    <h2 class="post-title">Rehabo: Physical Rehabilitation with Computer Vision</h2>
+    
+    <p class="post-subtitle">An AI aided tool to help patients with their physical rehabilitation.</p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  <a href="https://www.linkedin.com/company/rehabo/about/">Read more</a>
+  
+  
+  </p>
+  <p class="post-meta">April 14, 2019</p>
+</article>
+
+<article class="post-preview">
+  <!-- <a href="/projects/2018/06/04/medsearch.html"> -->
+    <h2 class="post-title">MedSearch: A medical image search platform.</h2>
+    
+    <p class="post-subtitle">A platform for </p>
+    
+    <!-- <p><b>Role:</b></p>
+    <p><b>Why: </b></p>
+    <p><b>What: </b> </p>
+    <p><b>Read More:</b></p> -->
+    
+
+  <!-- </a> -->
+  <p class="post-link">
+  
+  
+  <div class="post-link">
+   <a href="https://github.com/Tanmay06/MedSearch">Source code</a>
+  </div>
+  
+  </p>
+  <p class="post-meta">June 04, 2018</p>
+</article>
+:ET

@@ -14,9 +14,11 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ "/projects" | relative_url }}">Projects</a>
         </li>
+        {% if site.resume %}
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/docs/TanmayVakare.pdf" | relative_url }}">Résumé</a>
+          <a class="nav-link" href="{{ site.resume | relative_url }}">Résumé</a>
         </li>
+        {% endif %}
       </ul>
     </div>
   </div>

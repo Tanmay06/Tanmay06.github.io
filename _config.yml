@@ -4,6 +4,7 @@ description:        A place where I post some intresting content.
 author:             Tanmay Vakare
 baseurl:            "/"
 url:                "https://Tanmay06.github.io"
+resume:             "/docs/TanmayVakare.pdf"
 
 # Social Profiles
 twitter_username:   SangfroidSenshi
