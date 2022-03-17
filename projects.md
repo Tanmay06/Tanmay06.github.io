@@ -20,12 +20,10 @@ background: '/img/bg-post.jpg'
     {{ post.content }}
   <!-- </a> -->
   <p class="post-link">
-  {% if post.info %}
-    <a href="{{ post.info }}">Read more</a>
-  {% endif %}
-  {% if post.code %}
-    <a href="{{ post.code }}">Source code</a>
-  {% endif %}
+  {% for link in post.links %}
+    <a href="{{ link }}">{{ link | remove:'https://' | split:'/' | first | remove:'www.'}}</a>
+  {% endfor %}
+  
   </p>
   <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
 </article>
