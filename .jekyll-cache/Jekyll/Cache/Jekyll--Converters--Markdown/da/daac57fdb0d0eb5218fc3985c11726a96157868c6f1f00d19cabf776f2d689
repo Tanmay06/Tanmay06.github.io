@@ -1,4 +1,4 @@
-I"
+I"g
 <article class="post-preview">
   <!-- <a href="/projects/2021/07/20/dds.html"> -->
     <h2 class="post-title">DDS: Document Decoding Service</h2>
@@ -43,13 +43,13 @@
   <!-- <a href="/projects/2021/05/20/relie.html"> -->
     <h2 class="post-title">ReLIE: Representation Learning for Information Extraction</h2>
     
-    <p class="post-subtitle">Unofficial implementation of google's </p>
+    <p class="post-subtitle">Unofficial implementation of google's representation learning for information extraction.</p>
     
     <!-- <p><b>Role:</b></p>
     <p><b>Why: </b></p>
     <p><b>What: </b> </p>
     <p><b>Read More:</b></p> -->
-    
+    <p>A transformer based entity recogtnition algorithm from form-like documents. Trained a base transformer model to recognize predefined entities in document images and then extract the correponding values.</p>
 
   <!-- </a> -->
   <p class="post-link">
@@ -89,15 +89,15 @@
 
 <article class="post-preview">
   <!-- <a href="/projects/2020/09/10/hrms-video-analytics.html"> -->
-    <h2 class="post-title">HRMS</h2>
+    <h2 class="post-title">HRMS: Human Resource Management System</h2>
     
-    <p class="post-subtitle">A novel metric for determinig the semantic similarity between sentences.</p>
+    <p class="post-subtitle">A realtime video analytics patform.</p>
     
     <!-- <p><b>Role:</b></p>
     <p><b>Why: </b></p>
     <p><b>What: </b> </p>
     <p><b>Read More:</b></p> -->
-    
+    <p>A system to monitor COVID violations and report it to the admin. Worked on NVIDIA Deepstream with TensorRT models to implement 40 simultaneous highly efficient stream processing pipelines. Also worked on extarcting person’s temperature information using thermal camera data. These solutions have been filed for patent and are waiting for approval.</p>
 
   <!-- </a> -->
   <p class="post-link">
