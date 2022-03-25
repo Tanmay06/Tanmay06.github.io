@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-background: '/img/bg-post.jpg'
+background: '/img/bg-projects.jpg'
 ---
 
 {% for post in site.categories.Projects %}
