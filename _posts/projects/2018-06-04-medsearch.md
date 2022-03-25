@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "MedSearch: A medical image search platform."
-subtitle: "A platform for "
+subtitle: "Content based image retrieval as a platform for medical personnel."
 categories: 'Projects'
 links: ["https://github.com/Tanmay06/MedSearch"]
 ---
+
+Developed an end-to-end image search platform specifically for people in medical domain to share information on pecular cases so that the infomartion could be used in future incidents. Used SIFT image feature extraction  and KNN matching to find similar features while comparing the images. Implemented this as a service using Apache Spark cluster, MongoDB and an Android application.
