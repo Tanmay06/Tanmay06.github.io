@@ -4,16 +4,31 @@ title: Tanmay Vakare
 description: 
 background: '/img/bg-about.jpg'
 ---
-<p>I make machines smarter so they can make human lives easier. Basically, I'm Machine Learning Engineer/ Data Scientist who loves to work on difficult problems and come up with innovative and creative solutions.</p>
+I make machines smarter so they can make human lives easier. Basically, I'm Machine Learning Engineer/ Data Scientist who loves to work on difficult problems and come up with innovative and creative solutions.
 
-<p>Currently, as a graduate student, I'm pursuing my Master of Science in Computer Science with a concentration in Data Science from the University of Texas at Dallas, where I'm working on Perceptually-enabled Task Guidance system.</p>
+Currently, as a graduate student, I'm pursuing my Master of Science in Computer Science with a concentration in Data Science from the University of Texas at Dallas, where I'm working on Perceptually-enabled Task Guidance system.
 
-<p>Throughout my academic and professional career, my primary research interest has been in development of tools and techniques for ML and Deep Learning tasks, primarily NLP and NLU. But I've been also involved with projects spanning across various other domains and fields like Computer Vision, Predictive Analytics, and more.</p>
+Throughout my academic and professional career, my primary research interest has been in development of tools and techniques for ML and Deep Learning tasks, primarily NLP and NLU. But I've been also involved with projects spanning across various other domains and fields like Computer Vision, Predictive Analytics, and more.
 
-<p>As I've been working proffesionally for 3 years now, I've experience of working in various domains with diverse technologies. You can read more about my <a href='./projects'>Projects</a>.<p>
+As I've been working proffesionally for 3 years now, I've experience of working in various domains with diverse technologies. You can read more about my [Projects]('./projects').
 
-<p>I don't write much but you can find my some of my work in <a href='./writings'>Writings</a>.<p>
+I don't write much but you can find my some of my work in [Writings]('./writings').
 
-<p>In my free time love to watch 📺 anime, play 🎱 8-ball pool, 🏓 table tennis or some 🕹️ video games. Hit me up if you want geek out on any of these things!!</p>
+In my free time love to watch 📺 anime, play 🎱 8-ball pool, 🏓 table tennis or some 🕹️ video games. Hit me up if you want geek out on any of these things!!
 
-<p>Enjoy this taco 🌮, while you are here!!</p>
+Enjoy this taco 🌮, while you are here!!
+
+## Publications 
+
+**Tanmay Vakare**, Kshitij Verma, Vedant Jain "*Sentence Semantic Similarity Using Dependency Parsing*", Proceedings of 10th International Conference of Computing, Communication and Networking Technologies (2019): DOI: [10.1109/ICCCNT45670.2019.8944671](https://ieeexplore.ieee.org/document/8944671)
+
+## Experience
+
+**Data Scientist**, *Blackstraw.ai*, Chennai, India, *August 19 - July 21*
+
+**Co-Founder, Technology Lead**, *Rehabo Technologies*, Vadodara, India, *January 19 - July 19*
+
+**Machine Learning Intern**, *Service4Startups*, Vadodara, India, *November 18 - February 21*
+
+
+
