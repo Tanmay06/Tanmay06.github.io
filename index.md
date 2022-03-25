@@ -28,7 +28,7 @@ Enjoy this taco 🌮, while you are here!!
 
 **Co-Founder, Technology Lead**, *Rehabo Technologies*, Vadodara, India, *January 19 - July 19*
 
-**Machine Learning Intern**, *Service4Startups*, Vadodara, India, *November 18 - February 21*
+**Machine Learning Intern**, *Service4Startups*, Vadodara, India, *November 18 - February 19*
 
 
 
