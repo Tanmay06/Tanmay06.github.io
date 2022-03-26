@@ -1,4 +1,4 @@
-I"ž!
+I"j$
 <article class="post-preview">
   <!-- <a href="/projects/2021/07/20/dds.html"> -->
     <h2 class="post-title">DDS: Document Decoding Service</h2>
@@ -139,7 +139,7 @@
     <p><b>Why: </b></p>
     <p><b>What: </b> </p>
     <p><b>Read More:</b></p> -->
-    <p>As a proof of concept, developed a abstractive summarization system to capture data from various sources and generate a brief and comprehensive summary. Worked on PreSumm, a BERT based summarization model, for learning representations along with GPT-2 for generating cohesive summaries.</p>
+    <p>As a proof of concept, developed a abstractive summarization system to capture data from various sources and generate a brief and comprehensive summary. Worked on PreSumm, which uses a modified BERT encoder and a regular transformer decoder with different optimizers for efficient fine-tuning. While the encoder was able to capture the representations of salient contexts, the decoder lacked in generating cohesive text. Improved it by using GPT-2 as the decoder. The GPT-2 based decoder was fine-tuned to use BERT encoder representations to generate new text.</p>
 
   <!-- </a> -->
   <p class="post-link">
@@ -199,13 +199,13 @@
   <!-- <a href="/projects/2018/06/04/medsearch.html"> -->
     <h2 class="post-title">MedSearch: A medical image search platform.</h2>
     
-    <p class="post-subtitle">A platform for </p>
+    <p class="post-subtitle">Content based image retrieval as a platform for medical personnel.</p>
     
     <!-- <p><b>Role:</b></p>
     <p><b>Why: </b></p>
     <p><b>What: </b> </p>
     <p><b>Read More:</b></p> -->
-    
+    <p>Developed an end-to-end image search platform specifically for people in medical domain to share information on pecular cases so that the infomartion could be used in future incidents. Used SIFT image feature extraction  and KNN matching to find similar features while comparing the images. Implemented this as a service using Apache Spark cluster, MongoDB and an Android application.</p>
 
   <!-- </a> -->
   <p class="post-link">

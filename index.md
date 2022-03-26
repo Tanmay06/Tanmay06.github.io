@@ -18,9 +18,17 @@ In my free time love to watch 📺 anime, play 🎱 8-ball pool, 🏓 table tenn
 
 Enjoy this taco 🌮, while you are here!!
 
-## Publications 
+## Publication
 
 **Tanmay Vakare**, Kshitij Verma, Vedant Jain "*Sentence Semantic Similarity Using Dependency Parsing*", Proceedings of 10th International Conference of Computing, Communication and Networking Technologies (2019): DOI: [10.1109/ICCCNT45670.2019.8944671](https://ieeexplore.ieee.org/document/8944671)
+
+## Certification
+
+**Secure and Private AI**, *Udacity*, *September 19*
+
+[**Machine Learning by Stanford University**, *Coursera*, *December 18*](https://www.coursera.org/account/accomplishments/verify/9HW3LWHT9JH9)
+
+**Gooogle India Scholarship Challenge: Android Development**, *Udacity*, *February 18*
 
 ## Experience
 
