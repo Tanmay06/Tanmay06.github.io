@@ -31,6 +31,7 @@ Enjoy this taco 🌮, while you are here!!
 **Gooogle India Scholarship Challenge: Android Development**, *Udacity*, *February 18*
 
 ## Experience
+**Software Engineering Intern**, *Amazon Alexa*, Sunnyvale, California, *August 22 - December 22*
 
 **Data Scientist**, *Blackstraw.ai*, Chennai, India, *August 19 - July 21*
 
