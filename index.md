@@ -6,7 +6,7 @@ background: '/img/bg-about.jpg'
 ---
 I make machines smarter so they can make human lives easier. Basically, I'm Machine Learning Engineer/ Data Scientist who loves to work on difficult problems and come up with innovative and creative solutions.
 
-Currently, as a graduate student, I'm pursuing my Master of Science in Computer Science with a concentration in Data Science from the University of Texas at Dallas, where I'm working on Perceptually-enabled Task Guidance system.
+Currently, as a graduate student, I'm pursuing my Master of Science in Computer Science with a concentration in Data Science from the University of Texas at Dallas, where I'm working on generating morals for fables.
 
 Throughout my academic and professional career, my primary research interest has been in development of tools and techniques for ML and Deep Learning tasks, primarily NLP and NLU. But I've been also involved with projects spanning across various other domains and fields like Computer Vision, Predictive Analytics, and more.
 
