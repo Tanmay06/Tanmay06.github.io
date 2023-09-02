@@ -18,6 +18,15 @@ In my free time love to watch 📺 anime, play 🎱 8-ball pool, 🏓 table tenn
 
 Enjoy this taco 🌮, while you are here!!
 
+## Experience
+**Software Engineering Intern**, *Amazon Alexa*, Sunnyvale, California, *August 22 - December 22*
+
+**Data Scientist**, *Blackstraw.ai*, Chennai, India, *August 19 - July 21*
+
+**Co-Founder, Technology Lead**, *Rehabo Technologies*, Vadodara, India, *July 18 - July 19*
+
+**Machine Learning Intern**, *Service4Startups*, Vadodara, India, *November 18 - February 19*
+
 ## Publication
 
 **Tanmay Vakare**, Kshitij Verma, Vedant Jain "*Sentence Semantic Similarity Using Dependency Parsing*", Proceedings of 10th International Conference of Computing, Communication and Networking Technologies (2019): DOI: [10.1109/ICCCNT45670.2019.8944671](https://ieeexplore.ieee.org/document/8944671)
@@ -29,15 +38,6 @@ Enjoy this taco 🌮, while you are here!!
 [**Machine Learning by Stanford University**, *Coursera*, *December 18*](https://www.coursera.org/account/accomplishments/verify/9HW3LWHT9JH9)
 
 **Gooogle India Scholarship Challenge: Android Development**, *Udacity*, *February 18*
-
-## Experience
-**Software Engineering Intern**, *Amazon Alexa*, Sunnyvale, California, *August 22 - December 22*
-
-**Data Scientist**, *Blackstraw.ai*, Chennai, India, *August 19 - July 21*
-
-**Co-Founder, Technology Lead**, *Rehabo Technologies*, Vadodara, India, *January 19 - July 19*
-
-**Machine Learning Intern**, *Service4Startups*, Vadodara, India, *November 18 - February 19*
 
 
 
