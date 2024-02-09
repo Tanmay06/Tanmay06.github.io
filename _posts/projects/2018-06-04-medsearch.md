@@ -2,7 +2,7 @@
 layout: post
 title: "MedSearch: A medical image search platform."
 subtitle: "Content based image retrieval as a platform for medical personnel."
-categories: 'Projects'
+category: 'Projects'
 links: ["https://github.com/Tanmay06/MedSearch"]
 ---
 

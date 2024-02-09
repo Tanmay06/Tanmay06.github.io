@@ -2,7 +2,7 @@
 layout: post
 title: "Pufferfish"
 subtitle: "Open-source fully featured mechanical ventilator."
-categories: 'Projects'
+category: 'Projects'
 links: ["https://www.pez-globo.org","https://github.com/pez-globo/pufferfish-software"]
 ---
 

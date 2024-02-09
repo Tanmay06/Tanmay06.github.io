@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tanmay Vakare
-description: 
 background: '/img/bg-about.jpg'
 ---
 I make machines smarter so they can make human lives easier. Basically, I'm Machine Learning Engineer/ Data Scientist who loves to work on difficult problems and come up with innovative and creative solutions.

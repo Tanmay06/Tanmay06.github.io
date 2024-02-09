@@ -3,7 +3,7 @@ layout: post
 title: "Face recognition using neural networks."
 subtitle: "A simple guide to developing face recognition program using HAAR feature-based cascade classifier for face detection and an Artificial Neural Network for face recognition."
 background: '/img/posts/writings/face-recognition/face-recog-bg.jpg'
-categories: 'Writings'
+category: 'Writings'
 ---
 
 > *All the code for this project can be found in this [repo](https://github.com/Tanmay06/face-recognition).*

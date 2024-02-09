@@ -2,7 +2,7 @@
 layout: post
 title: "HRMS: Human Resource Management System"
 subtitle: "A realtime video analytics patform."
-categories: 'Projects'
+category: 'Projects'
 links: ["https://blackstraw.ai/covid-monitoring/"]
 ---
 
