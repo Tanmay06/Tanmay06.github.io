@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automated Code Comment Generation"
-subtitle: "Classifying English and Arabic news articles using Prompt-Based Techniques"
+subtitle: "Analysis of automated code comment generation with zero-shot learning, in-context learning and prompt tuning on LLMs"
 category: 'Projects'
 links: ["https://github.com/Tanmay06/automated_code_comment"]
 ---
